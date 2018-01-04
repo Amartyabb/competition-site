@@ -1,5 +1,5 @@
 title = "Osprey Example Site"
-baseURL = "https://tomanistor.com"
+baseURL = "distracted-goldberg-ed5879.netlify.com/"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
