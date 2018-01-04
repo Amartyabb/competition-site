@@ -1,5 +1,5 @@
 title = "Your Future"
-baseURL = "https://distracted-goldberg-ed5879.netlify.com"
+baseURL = "https://shapetheworld.netlify.com"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
