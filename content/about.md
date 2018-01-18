@@ -38,5 +38,5 @@ YFP_Last, First
 [bryanjohnson.co](https://bryanjohnson.co/)
 
 
-Sky Zoom and Amartya Banerjee, two Madison High School juniors, led the project’s implementation. </h4> 
+<h4>Sky Zoom and Amartya Banerjee, two Madison High School juniors, led the project’s implementation. </h4> 
 
