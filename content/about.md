@@ -20,9 +20,9 @@ draft = false
 
 
 
-<h4><p align="center">Email your project in PDF format to</p></h4> 
+<h4><p align="center">Email your project in PDF format to skyzoom00@gmail.com</p></h4> 
 
-[skyzoom00@gmail.com](mailto:skyzoom00@gmail.com)
+
 
 
 <h4><p align="center"> with subject line: 
