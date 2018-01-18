@@ -16,17 +16,11 @@ draft = false
 
 <h1><p align="center"> The Process </p></h1> 
 
-<h4>Answers to this question will be reviewed by a panel of JMHS faculty judges on [February TBD] (last day for submission), and the 10 selected finalists’ papers will be sent to Bryan Johnson for winner selections. The three winners will be announced on [March TBD], where [TBD]. Each winner will receive $500 in seed money from Bryan Johnson. </h4>
+<h4>Answers to this question will be reviewed by a panel of JMHS faculty judges on [February TBD] (last day for submission), and the 10 selected finalists’ papers will be sent to Bryan Johnson for winner selections. The three winners will be announced on [March TBD], where [TBD]. Each winner will receive $500 in seed money from Bryan Johnson.
 
 
 
-<h4><p align="center">Email your project in PDF format to skyzoom00@gmail.com</p></h4> 
-
-
-
-
-<h4><p align="center"> with subject line: 
-YFP_Last, First
+Email your project in PDF format to skyzoom00@gmail.com with subject line: YFP_Last, First
 
 
 </p></h4> 
