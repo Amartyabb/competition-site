@@ -18,18 +18,18 @@ draft = false
 
 <h4>Answers to this question will be reviewed by a panel of JMHS faculty judges on Jan. 23 (last day for submission), and the 10 selected finalists’ papers will be sent to Bryan Johnson in Los Angeles for winner selections. The three winners will be announced on Feb. 2nd at MADTalks, where Johnson will speak. Each winner will receive $500 in seed funding from Bryan Johnson.</h4>
 
-<br><br>
 
-<h1><p align="center">Email your project in PDF format to</p></h1> 
+
+<h4><p align="center">Email your project in PDF format to</p></h4> 
 
 [skyzoom00@gmail.com](mailto:skyzoom00@gmail.com)
 
 
-<h1><p align="center"> with subject line: 
+<h4><p align="center"> with subject line: 
 YFP_Last, First
 
 
-</p></h1> 
+</p></h4> 
 
 <h1><p align="center"> About </p></h1> 
 
