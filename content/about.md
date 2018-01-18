@@ -35,7 +35,7 @@ YFP_Last, First
 
 <h4>This James Madison High School Project was sponsored by Bryan Johnson. He is an entrepreneur and investor, the founder of Kernel, OS Fund, and Braintree. You can read about him on his website:</h4>
 
-[bryanjohnson.co](bryanjohnson.co)
+[bryanjohnson.co](https://bryanjohnson.co/)
 
 
 Sky Zoom and Amartya Banerjee, two Madison High School juniors, led the project’s implementation. </h4> 
