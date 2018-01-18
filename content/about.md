@@ -16,7 +16,7 @@ draft = false
 
 <h1><p align="center"> The Process </p></h1> 
 
-<h4>Answers to this question will be reviewed by a panel of JMHS faculty judges on Jan. 23 (last day for submission), and the 10 selected finalists’ papers will be sent to Bryan Johnson in Los Angeles for winner selections. The three winners will be announced on Feb. 2nd at MADTalks, where Johnson will speak. Each winner will receive $500 in seed funding from Bryan Johnson.</h4>
+<h4>Answers to this question will be reviewed by a panel of JMHS faculty judges on [February TBD] (last day for submission), and the 10 selected finalists’ papers will be sent to Bryan Johnson for winner selections. The three winners will be announced on [March TBD], where [TBD]. Each winner will receive $500 in seed money from Bryan Johnson. </h4>
 
 
 
